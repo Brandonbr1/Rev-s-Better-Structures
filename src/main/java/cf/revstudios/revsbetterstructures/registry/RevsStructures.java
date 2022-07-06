@@ -53,7 +53,7 @@ public class RevsStructures {
 		setupMapSpacingAndLand(BLUETEEPEE.get(), new StructureSeparationSettings(592, 587, 85414654), true);
 		setupMapSpacingAndLand(BROWNTEEPEE.get(), new StructureSeparationSettings(558, 550, 6154165), true);
 		setupMapSpacingAndLand(YELLOWTEEPEE.get(), new StructureSeparationSettings(550, 540, 651657648), true);
-		setupMapSpacingAndLand(COTTAGE.get(), new StructureSeparationSettings(612, 604, 546541566), true);
+		setupMapSpacingAndLand(COTTAGE.get(), new StructureSeparationSettings(408, 312, 546541566), true);
 		setupMapSpacingAndLand(WANDERCAMP.get(), new StructureSeparationSettings(428, 414, 6157486), true);
 		setupMapSpacingAndLand(ROUNDEDHOUSE.get(), new StructureSeparationSettings(498, 464, 454706451), true);
 		setupMapSpacingAndLand(TENTGREEN.get(), new StructureSeparationSettings(600, 586, 1536878), true);
