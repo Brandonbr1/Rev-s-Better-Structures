@@ -46,10 +46,10 @@ public class RevsStructures {
 	public static final RegistryObject<Structure<NoFeatureConfig>> ROCKCHAMP2 = STRUCTURES.register("rockchamp2", () -> (new SurfaceDungeonStructure(NoFeatureConfig.CODEC, "rockchamp2/start_pool")));
 
 	public static void setupStructures() {
-		setupMapSpacingAndLand(WINDMILL.get(), new StructureSeparationSettings(827, 825, 3203498), true);
+		setupMapSpacingAndLand(WINDMILL.get(), new StructureSeparationSettings(168, 25, 3203498), true);
 		setupMapSpacingAndLand(SMALLHOUSE.get(), new StructureSeparationSettings(396, 394, 451654774), true);
-		setupMapSpacingAndLand(CASTLE.get(), new StructureSeparationSettings(706, 700, 9815654), true);
-		setupMapSpacingAndLand(BARN.get(), new StructureSeparationSettings(915, 910, 156164566), true);
+		setupMapSpacingAndLand(CASTLE.get(), new StructureSeparationSettings(400, 700, 9815654), true);
+		setupMapSpacingAndLand(BARN.get(), new StructureSeparationSettings(760, 600, 156164566), true);
 		setupMapSpacingAndLand(BLUETEEPEE.get(), new StructureSeparationSettings(592, 587, 85414654), true);
 		setupMapSpacingAndLand(BROWNTEEPEE.get(), new StructureSeparationSettings(558, 550, 6154165), true);
 		setupMapSpacingAndLand(YELLOWTEEPEE.get(), new StructureSeparationSettings(550, 540, 651657648), true);
@@ -57,17 +57,17 @@ public class RevsStructures {
 		setupMapSpacingAndLand(WANDERCAMP.get(), new StructureSeparationSettings(428, 414, 6157486), true);
 		setupMapSpacingAndLand(ROUNDEDHOUSE.get(), new StructureSeparationSettings(498, 464, 454706451), true);
 		setupMapSpacingAndLand(TENTGREEN.get(), new StructureSeparationSettings(600, 586, 1536878), true);
-		setupMapSpacingAndLand(TENTRED.get(), new StructureSeparationSettings(600, 586, 648498484), true);
-		setupMapSpacingAndLand(RUINEDHOUSE.get(), new StructureSeparationSettings(586, 550, 564185715), true);
-		setupMapSpacingAndLand(RUINEDHOUSE2.get(), new StructureSeparationSettings(586, 550, 691545156), true);
-		setupMapSpacingAndLand(RUINEDHOUSE3.get(), new StructureSeparationSettings(586, 550, 23485623), true);
-		setupMapSpacingAndLand(SPRUCETOWER.get(), new StructureSeparationSettings(896, 859, 2743859), true);
-		setupMapSpacingAndLand(NETHERTOWER.get(), new StructureSeparationSettings(896, 859, 2743859), true);
+		setupMapSpacingAndLand(TENTRED.get(), new StructureSeparationSettings(230, 127, 648498484), true);
+		setupMapSpacingAndLand(RUINEDHOUSE.get(), new StructureSeparationSettings(165, 125, 564185715), true);
+		setupMapSpacingAndLand(RUINEDHOUSE2.get(), new StructureSeparationSettings(165, 125, 691545156), true);
+		setupMapSpacingAndLand(RUINEDHOUSE3.get(), new StructureSeparationSettings(165, 125, 23485623), true);
+		setupMapSpacingAndLand(SPRUCETOWER.get(), new StructureSeparationSettings(352, 349, 2743859), true);
+		setupMapSpacingAndLand(NETHERTOWER.get(), new StructureSeparationSettings(450, 340, 2743859), true);
 		setupMapSpacingAndLand(DIORITECHAMP.get(), new StructureSeparationSettings(96, 59, 15498198), true);
 		setupMapSpacingAndLand(FALLENTREE1.get(), new StructureSeparationSettings(96, 59, 51951594), true);
 		setupMapSpacingAndLand(FALLENTREE2.get(), new StructureSeparationSettings(96, 59, 841896415), true);
-		setupMapSpacingAndLand(GIGATREE.get(), new StructureSeparationSettings(896, 859, 81951651), true);
-		setupMapSpacingAndLand(GIGACACTUS.get(), new StructureSeparationSettings(896, 859, 418494668), true);
+		setupMapSpacingAndLand(GIGATREE.get(), new StructureSeparationSettings(133, 94, 81951651), true);
+		setupMapSpacingAndLand(GIGACACTUS.get(), new StructureSeparationSettings(105, 87, 418494668), true);
 		setupMapSpacingAndLand(ROCKCHAMP.get(), new StructureSeparationSettings(96, 59, 98498164), true);
 		setupMapSpacingAndLand(ROCKCHAMP2.get(), new StructureSeparationSettings(96, 59, 18718974), true);
 	}
