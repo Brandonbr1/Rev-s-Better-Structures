@@ -49,7 +49,7 @@ public class RevsStructures {
 		setupMapSpacingAndLand(WINDMILL.get(), new StructureSeparationSettings(168, 25, 3203498), true);
 		setupMapSpacingAndLand(SMALLHOUSE.get(), new StructureSeparationSettings(396, 394, 451654774), true);
 		setupMapSpacingAndLand(CASTLE.get(), new StructureSeparationSettings(400, 700, 9815654), true);
-		setupMapSpacingAndLand(BARN.get(), new StructureSeparationSettings(760, 600, 156164566), true);
+		setupMapSpacingAndLand(BARN.get(), new StructureSeparationSettings(620, 500, 156164566), true);
 		setupMapSpacingAndLand(BLUETEEPEE.get(), new StructureSeparationSettings(592, 587, 85414654), true);
 		setupMapSpacingAndLand(BROWNTEEPEE.get(), new StructureSeparationSettings(558, 550, 6154165), true);
 		setupMapSpacingAndLand(YELLOWTEEPEE.get(), new StructureSeparationSettings(550, 540, 651657648), true);
